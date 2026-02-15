@@ -10,6 +10,8 @@
 
 This Privacy Policy describes how "Radio Amateur Digital ID Query" (hereinafter referred to as "the Application") collects, uses, and protects user information. The Application is developed by ALG Yazılım & Elektronik Inc. and is designed for radio amateurs to query DMR, NXDN, Repeater IDs, and APRS data.
 
+**This application is 100% free and completely ad-free, forever.**
+
 ### 2. Developer Information
 
 **Company Name:** ALG Yazılım & Elektronik Inc.  
@@ -25,8 +27,8 @@ The Application does NOT collect, store, or transmit any personal user data to o
 
 - **Search Queries:** User-entered callsigns and IDs are sent directly to third-party APIs (RadioID.net and APRS.fi) for query purposes only.
 - **Local Cache:** Search results are stored locally on the user's device using Android SharedPreferences for offline access.
-- **No Analytics:** We do not use any analytics, tracking, or advertising services.
-- **No User Accounts:** The Application does not require user registration or login.
+- **No Analytics:** We do not use any analytics, tracking, or advertising services. The application is completely ad-free.
+- **No User Accounts:** The Application does not require user registration or login. It is 100% free with no subscriptions or in-app purchases.
 
 #### 3.2 Third-Party Data Sources
 
@@ -141,6 +143,8 @@ For privacy-related questions or concerns:
 
 Bu Gizlilik Politikası, "Radyo Amatörü Dijital ID Sorgulama" uygulamasının (bundan böyle "Uygulama" olarak anılacaktır) kullanıcı bilgilerini nasıl topladığını, kullandığını ve koruduğunu açıklamaktadır. Uygulama, ALG Yazılım & Elektronik Inc. tarafından geliştirilmiş olup radyo amatörlerinin DMR, NXDN, Röle ID'lerini ve APRS verilerini sorgulaması için tasarlanmıştır.
 
+**Bu uygulama %100 ücretsiz ve tamamen reklamsızdır, sonsuza kadar.**
+
 ### 2. Geliştirici Bilgileri
 
 **Şirket Adı:** ALG Yazılım & Elektronik Inc.  
@@ -156,8 +160,8 @@ Uygulama, kullanıcıların kişisel verilerini sunucularımıza toplamaz, sakla
 
 - **Arama Sorguları:** Kullanıcıların girdiği çağrı işaretleri ve ID'ler, yalnızca sorgulama amacıyla doğrudan üçüncü taraf API'lere (RadioID.net ve APRS.fi) gönderilir.
 - **Yerel Önbellek:** Arama sonuçları, çevrimdışı erişim için Android SharedPreferences kullanılarak kullanıcının cihazında yerel olarak saklanır.
-- **Analitik Yok:** Herhangi bir analitik, izleme veya reklam hizmeti kullanmıyoruz.
-- **Kullanıcı Hesabı Yok:** Uygulama, kullanıcı kaydı veya giriş gerektirmez.
+- **Analitik Yok:** Herhangi bir analitik, izleme veya reklam hizmeti kullanmıyoruz. Uygulama tamamen reklamsızdır.
+- **Kullanıcı Hesabı Yok:** Uygulama, kullanıcı kaydı veya giriş gerektirmez. Abonelik veya uygulama içi satın alma olmadan %100 ücretsizdir.
 
 #### 3.2 Üçüncü Taraf Veri Kaynakları
 

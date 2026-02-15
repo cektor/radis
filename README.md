@@ -14,6 +14,8 @@
 
 **The Ultimate Tool for Radio Amateurs to Query DMR, NXDN, Repeater IDs, and APRS Data**
 
+**🆓 100% Free & Ad-Free Forever**
+
 [Download](#download) • [Features](#features) • [Screenshots](#screenshots) • [Privacy](#privacy) • [Support](#support)
 
 </div>
@@ -183,8 +185,9 @@ cd radio-amateur-id-query
 
 - ✅ **No Data Collection** - We don't collect any user data
 - ✅ **No Tracking** - No analytics or tracking services
-- ✅ **No Ads** - Completely ad-free experience
+- ✅ **No Ads** - Completely ad-free experience, forever
 - ✅ **No Accounts** - No registration required
+- ✅ **100% Free** - No subscriptions, no in-app purchases, no hidden costs
 - ✅ **Local Storage Only** - Data cached on your device
 - ✅ **HTTPS Only** - Secure API communications
 - ✅ **Open Source** - Transparent codebase
@@ -251,7 +254,7 @@ By using this application, you acknowledge and agree that:
 ### Searching Digital IDs
 
 1. Open the app (starts on ID Search screen)
-2. Enter a callsign (e.g., `TA1ABC`) or ID number (e.g., `2860385`)
+2. Enter a callsign (e.g., `TB1TFO`) or ID number (e.g., `2861059`)
 3. Tap "Sorgula" (Query)
 4. View results for DMR, NXDN, and Repeater databases
 5. Tap the copy icon next to any ID to copy it
@@ -259,7 +262,7 @@ By using this application, you acknowledge and agree that:
 ### Querying APRS Data
 
 1. Navigate to "APRS Sorgula" tab
-2. Enter a callsign (e.g., `TA1ABC`)
+2. Enter a callsign (e.g., `TB1TFO`)
 3. Tap "APRS Sorgula"
 4. View station position, QTH Locator, and APRS PassCode
 5. Tap "Haritada Görüntüle" to open in APRS.fi

@@ -14,6 +14,8 @@
 
 **Radyo Amatörleri için DMR, NXDN, Röle ID ve APRS Verilerini Sorgulama Aracı**
 
+**🆓 %100 Ücretsiz & Reklamsız Sonsuza Kadar**
+
 [İndir](#indir) • [Özellikler](#özellikler) • [Ekran Görüntüleri](#ekran-görüntüleri) • [Gizlilik](#gizlilik) • [Destek](#destek)
 
 </div>
@@ -183,8 +185,9 @@ cd radio-amateur-id-query
 
 - ✅ **Veri Toplama Yok** - Hiçbir kullanıcı verisi toplamıyoruz
 - ✅ **İzleme Yok** - Analitik veya izleme hizmeti yok
-- ✅ **Reklam Yok** - Tamamen reklamsız deneyim
+- ✅ **Reklam Yok** - Tamamen reklamsız deneyim, sonsuza kadar
 - ✅ **Hesap Yok** - Kayıt gerekmiyor
+- ✅ **%100 Ücretsiz** - Abonelik yok, uygulama içi satın alma yok, gizli maliyet yok
 - ✅ **Sadece Yerel Depolama** - Veriler cihazınızda önbelleğe alınır
 - ✅ **Sadece HTTPS** - Güvenli API iletişimi
 - ✅ **Açık Kaynak** - Şeffaf kod tabanı
@@ -251,7 +254,7 @@ Bu uygulamayı kullanarak, aşağıdakileri kabul etmiş sayılırsınız:
 ### Dijital ID Arama
 
 1. Uygulamayı açın (ID Arama ekranında başlar)
-2. Bir çağrı işareti (örn. `TA1ABC`) veya ID numarası (örn. `2860385`) girin
+2. Bir çağrı işareti (örn. `TB1TFO`) veya ID numarası (örn. `2861059`) girin
 3. "Sorgula" butonuna dokunun
 4. DMR, NXDN ve Röle veritabanları için sonuçları görüntüleyin
 5. Herhangi bir ID'nin yanındaki kopyala simgesine dokunarak kopyalayın
@@ -259,7 +262,7 @@ Bu uygulamayı kullanarak, aşağıdakileri kabul etmiş sayılırsınız:
 ### APRS Verisi Sorgulama
 
 1. "APRS Sorgula" sekmesine gidin
-2. Bir çağrı işareti girin (örn. `TA1ABC`)
+2. Bir çağrı işareti girin (örn. `TB1TFO`)
 3. "APRS Sorgula" butonuna dokunun
 4. İstasyon konumu, QTH Locator ve APRS PassCode'u görüntüleyin
 5. APRS.fi'de açmak için "Haritada Görüntüle"ye dokunun
