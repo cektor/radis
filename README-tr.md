@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="app/src/main/res/drawable/logo.png" alt="Uygulama Logosu" width="150"/>
+<img src="radioid.png" alt="Uygulama Logosu" width="150"/>
 
 ![Versiyon](https://img.shields.io/badge/versiyon-1.0.0-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Android-green.svg)
