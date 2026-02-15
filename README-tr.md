@@ -1,4 +1,5 @@
-# 📻 Radyo Amatörü Dijital ID Sorgulama (R.A.D.I.S.)
+# 📻 Radyo Amatörü Dijital ID Sorgulama
+### R.A.D.I.S.
 
 **[English](README.md) | [Türkçe](#türkçe)**
 
@@ -204,6 +205,37 @@ Uygulama sadece **BİR** izin gerektirir:
 - **Kullanıcı Kontrolü:** Uygulamayı kaldırarak önbelleği temizleyin
 
 Tam [Gizlilik Politikamızı](privacy_policy.md) okuyun
+
+### Yasal Bildirim & Veri Kaynakları
+
+**Önemli Bilgi:**
+
+Bu uygulamada görüntülenen tüm kullanıcı ve radyo amatörü bilgileri, halka açık veritabanlarından yasal olarak alınmaktadır:
+
+- **RadioID.net** - Halka açık DMR, NXDN ve Röle veritabanı
+- **APRS.fi** - Halka açık APRS ağ verileri
+
+Bu uygulama yalnızca bir sorgulama arayüzü olarak çalışır ve sunucularımızda hiçbir kullanıcı verisi SAKLAMAZ, TOPLAMAZ veya MUHAFAZA ETMEZ. Tüm bilgiler:
+
+- ✅ Resmi radyo amatörü veritabanları üzerinden halka açıktır
+- ✅ Üçüncü taraf API'lerden gerçek zamanlı olarak alınır
+- ✅ Yalnızca cihazınızda geçici olarak önbelleğe alınır
+- ✅ Radyo amatörlüğü yönetmelikleri kapsamında yasal olarak erişilebilirdir
+
+**Veri Silme Talepleri:**
+
+Bilgilerinizi kaldırmak veya değiştirmek isterseniz:
+- DMR/NXDN/Röle verileri için doğrudan **RadioID.net** ile iletişime geçin
+- APRS verileri için doğrudan **APRS.fi** ile iletişime geçin
+- Hiçbir veri saklamadığımız için silme taleplerini işleme alamayız
+
+**Kullanım Koşulları:**
+
+Bu uygulamayı kullanarak, aşağıdakileri kabul etmiş sayılırsınız:
+1. Tüm veriler halka açık radyo amatörü veritabanlarından alınmaktadır
+2. Uygulama, harici sunucularda kişisel veri saklamaz
+3. Veri silme talepleri orijinal veri kaynaklarına yönlendirilmelidir
+4. Uygulama, radyo amatörlüğü yönetmeliklerine ve veri koruma yasalarına uygundur
 
 ---
 

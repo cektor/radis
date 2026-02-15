@@ -1,4 +1,5 @@
-# 📻 Radio Amateur Digital ID Query (R.A.D.I.S.)
+# 📻 Radio Amateur Digital ID Query
+### R.A.D.I.S.
 
 **[English](#english) | [Türkçe](README-tr.md)**
 
@@ -204,6 +205,37 @@ The app requires only **ONE** permission:
 - **User Control:** Clear cache by uninstalling the app
 
 Read our full [Privacy Policy](privacy_policy.md)
+
+### Legal Notice & Data Sources
+
+**Important Information:**
+
+All user and radio amateur information displayed in this application is legally retrieved from public databases:
+
+- **RadioID.net** - Public DMR, NXDN, and Repeater database
+- **APRS.fi** - Public APRS network data
+
+This application acts solely as a query interface and does NOT store, collect, or maintain any user data on our servers. All information is:
+
+- ✅ Publicly available through official radio amateur databases
+- ✅ Retrieved in real-time from third-party APIs
+- ✅ Temporarily cached locally on your device only
+- ✅ Legally accessible under amateur radio regulations
+
+**Data Removal Requests:**
+
+If you wish to remove or modify your information:
+- Contact **RadioID.net** directly for DMR/NXDN/Repeater data
+- Contact **APRS.fi** directly for APRS data
+- We cannot process removal requests as we do not store any data
+
+**Terms of Use:**
+
+By using this application, you acknowledge and agree that:
+1. All data is sourced from public radio amateur databases
+2. The application does not store personal data on external servers
+3. Data removal requests must be directed to the original data sources
+4. The application complies with amateur radio regulations and data protection laws
 
 ---
 
