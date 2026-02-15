@@ -194,9 +194,10 @@ cd radio-amateur-id-query
 
 ### Permissions
 
-The app requires only **ONE** permission:
+The app requires only **TWO** permissions:
 
 - **INTERNET** - To query RadioID.net and APRS.fi APIs
+- **ACCESS_NETWORK_STATE** - To detect network connectivity and show online/offline status
 
 **No other permissions needed!** No location, camera, contacts, or storage access.
 

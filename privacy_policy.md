@@ -72,7 +72,12 @@ The Application requires the following Android permissions:
 - **Usage:** Only used when user initiates a search query
 - **Data Transmission:** Search queries are sent directly to third-party APIs; no data is sent to our servers
 
-#### 5.2 No Other Permissions Required
+#### 5.2 ACCESS_NETWORK_STATE Permission
+- **Purpose:** To detect network connectivity status (WiFi/Mobile Data)
+- **Usage:** Displays online/offline indicator (green/red light) in the app
+- **Privacy:** Only checks connection status, does not access any network data
+
+#### 5.3 No Other Permissions Required
 
 The Application does NOT require:
 - Location access
@@ -205,9 +210,14 @@ Uygulama aşağıdaki Android izinlerini gerektirir:
 - **Kullanım:** Yalnızca kullanıcı bir arama sorgusu başlattığında kullanılır
 - **Veri İletimi:** Arama sorguları doğrudan üçüncü taraf API'lere gönderilir; sunucularımıza hiçbir veri gönderilmez
 
-#### 5.2 Başka İzin Gerekmiyor
+#### 5.2 ACCESS_NETWORK_STATE İzni
+- **Amaç:** Ağ bağlantısı durumunu algılamak (WiFi/Mobil Veri)
+- **Kullanım:** Uygulamada çevrimiçi/çevrimdışı göstergesini (yeşil/kırmızı ışık) gösterir
+- **Gizlilik:** Yalnızca bağlantı durumunu kontrol eder, herhangi bir ağ verisine erişmez
 
-Uygulama aşağıdakileri GEREKTIRMEZ:
+#### 5.3 Başka İzin Gerekmiyor
+
+Uygulama aşağıdakileri GEREKTİRMEZ:
 - Konum erişimi
 - Kamera erişimi
 - Kişiler erişimi

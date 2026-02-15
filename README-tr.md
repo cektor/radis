@@ -194,9 +194,10 @@ cd radio-amateur-id-query
 
 ### İzinler
 
-Uygulama sadece **BİR** izin gerektirir:
+Uygulama sadece **İKİ** izin gerektirir:
 
 - **İNTERNET** - RadioID.net ve APRS.fi API'lerini sorgulamak için
+- **ACCESS_NETWORK_STATE** - Ağ bağlantısını algılamak ve çevrimiçi/çevrimdışı durumu göstermek için
 
 **Başka izin gerekmiyor!** Konum, kamera, kişiler veya depolama erişimi yok.
 
