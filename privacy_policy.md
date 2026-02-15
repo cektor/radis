@@ -46,6 +46,13 @@ The Application retrieves public radio amateur information from the following so
 - Privacy Policy: https://aprs.fi
 - Data Type: Publicly available APRS network data
 
+**QTH Locator Premium Integration:**
+- Purpose: Open QTH Locator calculations in dedicated app
+- App Package: com.qthlocator
+- Integration Type: Deep link (opens app if installed, otherwise redirects to Play Store)
+- Data Shared: Only QTH Locator grid value (e.g., "KN41")
+- Privacy: No personal data transmitted, only grid square information
+
 **Important:** All data retrieved from these APIs is publicly available information that radio amateurs have voluntarily submitted to these services.
 
 ### 4. Data Storage
@@ -100,6 +107,7 @@ We do NOT share, sell, or transmit user data to any third parties except:
 The Application provides features to share query results:
 - **Share Button:** Users can voluntarily share results via Android's native share dialog
 - **QR Code Generation:** QR codes are generated locally on the device and are not transmitted anywhere
+- **QTH Locator Integration:** When users click on QTH Locator, the app attempts to open QTH Locator Premium app (com.qthlocator) with the grid square value. If the app is not installed, users are redirected to Google Play Store. Only the QTH Locator grid value is shared with the external app.
 - **User Control:** All sharing is explicitly initiated by the user
 
 ### 7. Data Security
@@ -184,6 +192,13 @@ Uygulama, aşağıdaki kaynaklardan halka açık radyo amatörü bilgilerini al�
 - Gizlilik Politikası: https://aprs.fi
 - Veri Türü: Halka açık APRS ağ verileri
 
+**QTH Locator Premium Entegrasyonu:**
+- Amaç: QTH Locator hesaplamalarını özel uygulamada açma
+- Uygulama Paketi: com.qthlocator
+- Entegrasyon Türü: Derin bağlantı (yüklüyse uygulamayı açar, aksi takdirde Play Store'a yönlendirir)
+- Paylaşılan Veri: Yalnızca QTH Locator ızgara değeri (örn. "KN41")
+- Gizlilik: Kişisel veri iletilmez, yalnızca ızgara karesi bilgisi
+
 **Önemli:** Bu API'lerden alınan tüm veriler, radyo amatörlerinin bu hizmetlere gönüllü olarak gönderdikleri halka açık bilgilerdir.
 
 ### 4. Veri Saklama
@@ -238,6 +253,7 @@ Kullanıcı verilerini üçüncü taraflarla paylaşmıyor, satmıyor veya iletm
 Uygulama, sorgu sonuçlarını paylaşma özellikleri sağlar:
 - **Paylaş Butonu:** Kullanıcılar Android'in yerel paylaşım diyalogu aracılığıyla gönüllü olarak sonuçları paylaşabilir
 - **QR Kod Oluşturma:** QR kodlar cihazda yerel olarak oluşturulur ve hiçbir yere iletilmez
+- **QTH Locator Entegrasyonu:** Kullanıcılar QTH Locator'ı tıkladığında, uygulama QTH Locator Premium uygulamasını (com.qthlocator) ızgara karesi değeriyle açmaya çalışır. Uygulama yüklü değilse, kullanıcılar Google Play Store'a yönlendirilir. Yalnızca QTH Locator ızgara değeri harici uygulamayla paylaşılır.
 - **Kullanıcı Kontrolü:** Tüm paylaşımlar açıkça kullanıcı tarafından başlatılır
 
 ### 7. Veri Güvenliği

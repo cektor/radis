@@ -65,11 +65,13 @@ Query radio amateur information across multiple networks:
 Advanced APRS station tracking:
 
 - **Real-time Position** - Latest station coordinates
-- **QTH Locator** - Automatic Maidenhead grid calculation
+- **QTH Locator** - Automatic Maidenhead grid calculation with clickable integration
+- **QTH Locator Premium Integration** - Direct link to QTH Locator Premium app (com.qthlocator)
 - **APRS PassCode** - Generate passcode for any callsign
 - **Map Integration** - Open station location in APRS.fi
 - **SSID Support** - Automatic detection of -N, -1, -2, etc.
 - **Station Info** - Comment, symbol, and last seen data
+- **Animated UI** - Smooth animations and visual feedback throughout the app
 
 ### 🔄 Smart Features
 
@@ -90,6 +92,9 @@ Advanced APRS station tracking:
 - **Empty Field Validation** - Helpful error messages
 - **Fast Navigation** - Bottom tab navigation
 - **Clean Interface** - Minimal, distraction-free design
+- **Smooth Animations** - Logo bounce, button press effects, pulsing status indicator
+- **Interactive Elements** - Clickable callsigns for cross-navigation between screens
+- **QTH Locator Integration** - Click QTH Locator to open QTH Locator Premium app or Play Store
 
 ---
 
@@ -266,7 +271,9 @@ By using this application, you acknowledge and agree that:
 2. Enter a callsign (e.g., `TB1TFO`)
 3. Tap "APRS Sorgula"
 4. View station position, QTH Locator, and APRS PassCode
-5. Tap "Haritada Görüntüle" to open in APRS.fi
+5. Tap QTH Locator text or animated logo to open QTH Locator Premium app
+6. If app not installed, you'll be redirected to Google Play Store
+7. Tap "Haritada Görüntüle" to open in APRS.fi
 
 ### Sharing Results
 
@@ -396,6 +403,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **RadioID.net** - For providing the DMR/NXDN/Repeater database API
 - **APRS.fi** - For the excellent APRS tracking service
+- **QTH Locator Premium** - For the excellent QTH Locator calculation app (com.qthlocator)
 - **Radio Amateur Community** - For feedback and support
 - **Open Source Contributors** - For making this project better
 
